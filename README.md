@@ -9,3 +9,5 @@ api_id = Your_API_Id
 api_hash = 'Your_API_HASH'
 
 phone = 'YOUR_PHONE_NUMBER_OR_SESSION_NAME'
+
+- At your first connection, you'll have to enter the telegram code in the powerShell terminal  (code send by sms or in telegram app)
